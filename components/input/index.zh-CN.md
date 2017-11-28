@@ -26,7 +26,7 @@ title: Input
 | prefix | 带有前缀图标的 input | string\|ReactNode |  |
 | size | 控件大小。注：标准表单内的输入框大小限制为 `large`。可选 `large` `default` `small` | string | `default` |
 | suffix | 带有后缀图标的 input | string\|ReactNode |  |
-| type | 声明 input 类型，同原生 input 标签的 type 属性。另外提供 `type="textarea"`(该 type `2.12` 后废弃，请直接使用 `Input.TextArea`)。 | string | `text` |
+| type | 声明 input 类型，同原生 input 标签的 type 属性。(`textarea` `3.0` 后移除，请直接使用 `Input.TextArea`)。 | string | `text` |
 | value | 输入框内容 | string |  |
 | onPressEnter | 按下回车的回调 | function(e) |  |
 
