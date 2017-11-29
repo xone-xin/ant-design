@@ -1,11 +1,11 @@
 {
-  "name": "antd",
-  "version": "2.13.10",
-  "title": "Ant Design",
+  "name": "xone-xin-ui",
+  "version": "0.1.0",
+  "title": "XiaoShang Design",
   "description": "An enterprise-class UI design language and React-based implementation",
-  "homepage": "http://ant.design/",
+  "homepage": "",
   "keywords": [
-    "ant",
+    "xone",
     "design",
     "react",
     "react-component",
@@ -16,14 +16,14 @@
     "frontend"
   ],
   "contributors": [
-    "ant"
+    "xone-xin"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design"
+    "url": "https://github.com/xone-xin/xone-design-ui"
   },
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design/issues"
+    "url": "https://github.com/xone-xin/xone-design-ui/issues"
   },
   "main": "lib/index.js",
   "module": "es/index.js",
